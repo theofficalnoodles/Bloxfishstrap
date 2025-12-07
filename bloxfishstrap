@@ -1,0 +1,3 @@
+mkdir bloxfishstrap
+cd bloxfishstrap
+git init
