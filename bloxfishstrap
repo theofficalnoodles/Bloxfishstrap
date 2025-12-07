@@ -1,3 +1,6 @@
 mkdir bloxfishstrap
 cd bloxfishstrap
 git init
+
+
+git remote add origin https://github.com/theofficalnoodles/bloxfishstrap.git
